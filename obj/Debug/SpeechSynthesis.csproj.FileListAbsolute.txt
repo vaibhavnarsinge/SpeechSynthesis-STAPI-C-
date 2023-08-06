@@ -1,0 +1,30 @@
+C:\Users\Admin\OneDrive\Desktop\Project C#\SpeechSynthesis\bin\Debug\SpeechSynthesis.exe.config
+C:\Users\Admin\OneDrive\Desktop\Project C#\SpeechSynthesis\bin\Debug\SpeechSynthesis.exe
+C:\Users\Admin\OneDrive\Desktop\Project C#\SpeechSynthesis\bin\Debug\SpeechSynthesis.pdb
+C:\Users\Admin\OneDrive\Desktop\Project C#\SpeechSynthesis\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\OneDrive\Desktop\Project C#\SpeechSynthesis\obj\Debug\SpeechSynthesis.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Project C#\SpeechSynthesis\obj\Debug\SpeechSynthesis.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Desktop\Project C#\SpeechSynthesis\obj\Debug\SpeechSynthesis.Form1.resources
+C:\Users\Admin\OneDrive\Desktop\Project C#\SpeechSynthesis\obj\Debug\SpeechSynthesis.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\Project C#\SpeechSynthesis\obj\Debug\SpeechSynthesis.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\Project C#\SpeechSynthesis\obj\Debug\SpeechSynthesis.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Project C#\SpeechSynthesis\obj\Debug\SpeechSynthesis.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Desktop\Project C#\SpeechSynthesis\obj\Debug\SpeechSynthesis.exe
+C:\Users\Admin\OneDrive\Desktop\Project C#\SpeechSynthesis\obj\Debug\SpeechSynthesis.pdb
+C:\Users\Admin\OneDrive\Desktop\Project C#\SpeechSynthesis\obj\Debug\SpeechSynthesis.textTospeech.resources
+C:\Users\Admin\OneDrive\Desktop\Project C#\SpeechSynthesis\obj\Debug\SpeechSynthesis.SpeechToText.resources
+C:\Users\vaibh\Desktop\SpeechSynthesis\bin\Debug\SpeechSynthesis.exe.config
+C:\Users\vaibh\Desktop\SpeechSynthesis\bin\Debug\SpeechSynthesis.exe
+C:\Users\vaibh\Desktop\SpeechSynthesis\bin\Debug\SpeechSynthesis.pdb
+C:\Users\vaibh\Desktop\SpeechSynthesis\bin\Debug\Guna.UI2.dll
+C:\Users\vaibh\Desktop\SpeechSynthesis\obj\Debug\SpeechSynthesis.csproj.AssemblyReference.cache
+C:\Users\vaibh\Desktop\SpeechSynthesis\obj\Debug\SpeechSynthesis.csproj.SuggestedBindingRedirects.cache
+C:\Users\vaibh\Desktop\SpeechSynthesis\obj\Debug\SpeechSynthesis.Form1.resources
+C:\Users\vaibh\Desktop\SpeechSynthesis\obj\Debug\SpeechSynthesis.Properties.Resources.resources
+C:\Users\vaibh\Desktop\SpeechSynthesis\obj\Debug\SpeechSynthesis.SpeechToText.resources
+C:\Users\vaibh\Desktop\SpeechSynthesis\obj\Debug\SpeechSynthesis.textTospeech.resources
+C:\Users\vaibh\Desktop\SpeechSynthesis\obj\Debug\SpeechSynthesis.csproj.GenerateResource.cache
+C:\Users\vaibh\Desktop\SpeechSynthesis\obj\Debug\SpeechSynthesis.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\Desktop\SpeechSynthesis\obj\Debug\SpeechSynthesis.csproj.CopyComplete
+C:\Users\vaibh\Desktop\SpeechSynthesis\obj\Debug\SpeechSynthesis.exe
+C:\Users\vaibh\Desktop\SpeechSynthesis\obj\Debug\SpeechSynthesis.pdb
